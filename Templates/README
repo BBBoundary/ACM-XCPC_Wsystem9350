@@ -1,1 +1,11 @@
+---
+layout:    post   				    # 使用的布局（不需要改）
+title:     一个个人的ACM模板合集~  # 标题 
+date:      2020-03-09 				# 时间
+author:    Culaccino					# 作者
+header-img: img/upd_img10.png        #这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:
+  - ACM-XCPC
+---
 
